@@ -33,6 +33,23 @@ The dashboard focuses on employee distribution, termination analysis, and tenure
 * **Average Tenure**
 
 ---
+## 🔎 Business Questions & Analysis Performed
+
+The dashboard was built to answer the following HR analytics questions:
+
+* Count the frequency of employees by **gender, race, department, and job title**
+* Understand the **distribution of gender and race** within the organization
+* Calculate the **average age** of employees
+* Identify the **department with the highest employee count**
+* Calculate the **average employee tenure**
+* Identify employees with the **longest and shortest tenure**
+* Explore employee distribution across different departments
+* Analyze **average age and tenure** within each department
+* Determine which **location (city/state)** has the highest number of employees
+* Identify the **most common job titles** in the organization
+* Analyze how **gender distribution varies across job titles**
+  
+---
 
 ## 📊 Dashboard Analysis
 
