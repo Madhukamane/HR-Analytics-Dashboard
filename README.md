@@ -64,6 +64,9 @@ The dashboard was built to answer the following HR analytics questions:
 
 ## 📷 Dashboard Preview
 
+<img width="1309" height="733" alt="Screenshot 2026-02-15 222607" src="https://github.com/user-attachments/assets/5f93c67a-c2db-4a60-90f4-73bed773f9f2" />
+<img width="1317" height="730" alt="Screenshot 2026-02-15 222620" src="https://github.com/user-attachments/assets/c96f44cb-37cc-4690-9852-7921888726f0" />
+
 
 
 ---
