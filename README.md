@@ -1,5 +1,5 @@
 # HR Analytics Dashboard 
-# End-to-end HR analytics project involving data cleaning using Excel, SQL-based data manipulation, and interactive visualization using Power BI.
+### End-to-end HR analytics project involving data cleaning using Excel, SQL-based data manipulation, and interactive visualization using Power BI.
 
 ## 📊 Project Overview
 
